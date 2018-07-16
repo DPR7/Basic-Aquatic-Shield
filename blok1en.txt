@@ -1,0 +1,18 @@
+The Basic Aquatic Shield senses the general settings of a small habitat. This can be a fish tank, an indoor greenhouse or a large aquaponics setup. My shield uses some lower-end sensors and outputs the data to an LCD screen.
+
+The concept was combined by me after i started to adjust another led-growth-experiment. I was trying to grow some of the easiest aquatic plants in a tropical open water aquarium. The setup was quite complex and potentially dangerous as light levels increased. 
+
+I searched for a way to monitor all the basics “ the easy way “ After looking around the web i found a plant care concept from seed studios. Tried to duplicate the system, but found some errors in the code. The hardware also made me second ges myself a couple of times. Testing each component gave me a better understanding but i left this system before expensive parts were needed. 
+
+Going over the components gave me more details and that lead to the B.A.S. It’s made up around a arduino Nano and uses a ‘ old style ‘ nokia LCD. The sensors include a moisture sensor, a humity / temperature sensor and a light sensor. Extra components are used to increase the stability and protect the MCU.
+
+This is a DIY project so costs were kept low and some parts like the sensorwires were recycled from old computers, Most parts however were ordered from small webstores that provid good support and fast services.
+These are the major components ;
+•USB Nano V3.0 ATmega328 16M 5V Micro-controller 
+•84*48 LCD Module Blue backlight adapter pcb for Nokia 5110 
+•Soil Hygrometer Detection Module + Moisture Sensor
+
+•DHT11 - Digital Temperature and Humidity Sensor 
+•TEMT6000 Light Sensor
+
+2 september 2016
